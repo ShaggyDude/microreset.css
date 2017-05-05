@@ -12,4 +12,4 @@ A tiny modern CSS reset that covers the basics:
 * **sets the border-box box sizing**: so that borders and paddings don't affect the set dimensions
 * **sets responsive media elements**: so that images and embeds scale with the browser width
 
-* **contains HML - Hypster Markup Language**: replaced <div> with <b> and <s> with <span> because we can.
+* **contains HML - Hypster Markup Language**: replaces DIVs with Bs and SPANs with Ss because we can.
