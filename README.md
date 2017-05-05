@@ -12,14 +12,4 @@ A tiny modern CSS reset that covers the basics:
 * **sets the border-box box sizing**: so that borders and paddings don't affect the set dimensions
 * **sets responsive media elements**: so that images and embeds scale with the browser width
 
-## Install
-
-```sh
-npm install minireset.css
-```
-
-Or download/clone the repo.
-
-## Copyright and license
-
-Code copyright 2017 Jeremy Thomas. Code released under [the MIT license](https://github.com/jgthms/minireset.css/blob/master/LICENSE).
+* **contains HML - Hypster Markup Language**: replaced <div> with <b> and <s> with <span> because we can.
