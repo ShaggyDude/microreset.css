@@ -38,6 +38,7 @@ td, th {
   padding: 0; text-align: left;
 }
 
+/* one letter replacements for div and span */
 b {
   display: block;
   font-weight: normal;
