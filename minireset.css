@@ -13,6 +13,7 @@ html {
   box-sizing: border-box;
 }
 
+/* is there a cleaner way to do this? */
 *, *:before, *:after {
   box-sizing: inherit;
 }
