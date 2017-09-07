@@ -11,5 +11,5 @@ A tiny modern CSS reset that covers the basics:
 * **preserves the inline paddings**: so that buttons and inputs keep their default layout
 * **sets the border-box box sizing**: so that borders and paddings don't affect the set dimensions
 * **sets responsive media elements**: so that images and embeds scale with the browser width
-* 
-* **contains HML - Hypster Markup Language**: replaces DIVs with Bs and SPANs with Ss because we can.
+*
+* **contains BIS Div Icon Span**: shorthand HTML containers. Use b for DIV, i for ICON, and s for SPAN
