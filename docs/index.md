@@ -1,8 +1,6 @@
 
-# MiniReset.css
+# MicroReset.css
 
-[![npm](https://img.shields.io/npm/v/minireset.css.svg)](https://www.npmjs.com/package/minireset.css)
-[![npm](https://img.shields.io/npm/dm/minireset.css.svg)](https://www.npmjs.com/package/minireset.css)
 
 A tiny modern CSS reset that covers the basics:
 
