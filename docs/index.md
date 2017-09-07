@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ShaggyDude/minireset.css/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# MiniReset.css
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![npm](https://img.shields.io/npm/v/minireset.css.svg)](https://www.npmjs.com/package/minireset.css)
+[![npm](https://img.shields.io/npm/dm/minireset.css.svg)](https://www.npmjs.com/package/minireset.css)
 
-### Markdown dude
+A tiny modern CSS reset that covers the basics:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShaggyDude/minireset.css/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* **resets the font sizes**: so that using semantic markup doesn't affect the styling
+* **resets the block margins**: so that the spacing is only applied when you need it
+* **resets tables**: so that tabular data only takes the space it needs
+* **preserves the inline paddings**: so that buttons and inputs keep their default layout
+* **sets the border-box box sizing**: so that borders and paddings don't affect the set dimensions
+* **sets responsive media elements**: so that images and embeds scale with the browser width
+*
+* **contains BIS Div Icon Span**: shorthand HTML containers. Use b for DIV, i for ICON, and s for SPAN
